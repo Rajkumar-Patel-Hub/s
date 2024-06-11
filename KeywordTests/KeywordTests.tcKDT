@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="LoginPage">
+			<child name="ValidUserDDT" key="{6975093B-D917-4FCD-81E1-988E48F5F7B5}" path="ValidUserDDT.tcKDTest" />
+			<child name="InvalidUser" key="{4BFAEB44-0732-44EA-891E-FA202D2E7EAE}" path="InvalidUser.tcKDTest" />
+		</folder>
+		<folder name="ProductPage" />
+		<folder name="helpers">
+			<child name="Logout" key="{388855D6-4AB1-4AFC-A82B-0FEF0EE85F32}" path="Logout.tcKDTest" />
+		</folder>
+	</children>
+</Root>

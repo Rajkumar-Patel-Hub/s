@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{1081D097-AB60-4D05-8D8C-AA7560F6AE2D}">
+	<children>
+		<child name="SwagLabsApplication" key="{A0AF6639-6ECA-4804-9C00-B672EAF3FEA8}" path="SwagLabsApplication\SwagLabsApplication.mds" />
+	</children>
+	<testItems key="{9EACA0AE-D520-4BC8-94E8-FDBAB8B4219F}">
+		<children>
+			<testItem key="{A0AF6639-6ECA-4804-9C00-B672EAF3FEA8}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{2A992625-C5F8-42E5-BDFA-9D7D1A1D7B69}" />
+	<analysis key="{257C1986-8F10-4EDF-9877-4B1C2831307D}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

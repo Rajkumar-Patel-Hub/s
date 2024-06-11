@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{C2DCB5FE-0452-46B2-A97E-8CBEE52EA664}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{B5560827-0D0E-4916-B700-DFD8127E88B3}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{8CE642D3-A4D0-4036-B1AA-38D1DB4BEC00}">
+								<Image FileName="-899690036" Left="-9" Top="-9" Right="1929" Bottom="1029" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageSwagLabs" Key="{00F62428-FFDF-4B9B-8805-6D9BE8FC30DF}">
+								<Image FileName="-696793891" Left="9" Top="105" Right="1929" Bottom="653" />
+								<TypeInfo Item0="{41CA4F91-0514-45EE-928C-F7E159D03336}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.saucedemo.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelSwagLabs" Key="{7ED9242A-9C86-4D7A-8B5D-6042D82E5F0A}">
+										<Image FileName="-696793891" Left="9" Top="105" Right="1908" Bottom="240" />
+										<TypeInfo Item0="{ACAB3F39-8615-4637-9EFC-614CBB7A9005}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[.=&apos;Swag Labs&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;login_logo&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxUserName" Key="{9EDF07A8-1522-4F2F-9ED7-1916E4C601FB}">
+										<Image FileName="1830372027" Left="776" Top="297" Right="1141" Bottom="345" />
+										<TypeInfo Item0="{2D916823-CCA7-4D15-9541-B617DA2AF70A}" />
+										<Selectors>
+											<Selector>
+												<Value Value="[data-test=&apos;username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="#user-name" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;user-name&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input[contains(@class, &apos;input_error&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login_button_container&apos;]//div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{775E5E74-8EE6-4A13-9F57-3A83A122553A}">
+										<Image FileName="-1394449157" Left="776" Top="164" Right="1141" Bottom="212" />
+										<TypeInfo Item0="{2D916823-CCA7-4D15-9541-B617DA2AF70A}" />
+										<Selectors>
+											<Selector>
+												<Value Value="[data-test=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="#password" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/input[contains(@class, &apos;input_error&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login_button_container&apos;]//div[2]/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeEpicSadfaceUsernameAnd" Key="{0F69B7C3-A2EC-4ECF-A073-C0BE6F5AF5CB}">
+										<Image FileName="1308904904" Left="789" Top="298" Right="1129" Bottom="373" />
+										<TypeInfo Item0="{ACAB3F39-8615-4637-9EFC-614CBB7A9005}" />
+										<Selectors>
+											<Selector>
+												<Value Value="[data-test=&apos;error&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login_button_container&apos;]//h3" />
+											</Selector>
+											<Selector>
+												<Value Value="//h3" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageSwagLabs2" Key="{39F2AFC3-B1A1-4AC4-B4F2-1B6E4FE8060D}">
+								<Image FileName="-1592905326" Left="9" Top="105" Right="1929" Bottom="653" />
+								<TypeInfo Item0="{41CA4F91-0514-45EE-928C-F7E159D03336}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.saucedemo.com/inventory.html" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeProducts" Key="{4447D8DB-3E9C-4DB7-8F29-23546C764EBB}">
+										<Image FileName="-1592905326" Left="34" Top="181" Right="130" Bottom="241" />
+										<TypeInfo Item0="{ACAB3F39-8615-4637-9EFC-614CBB7A9005}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Products&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//span[contains(@class, &apos;title&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;header_container&apos;]//div/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{B5560827-0D0E-4916-B700-DFD8127E88B3}">
+			<Child Name="BrowserWindow" Owner="{8CE642D3-A4D0-4036-B1AA-38D1DB4BEC00}" />
+			<Child Name="pageSwagLabs" Owner="{00F62428-FFDF-4B9B-8805-6D9BE8FC30DF}">
+				<Child Name="panelSwagLabs" Owner="{7ED9242A-9C86-4D7A-8B5D-6042D82E5F0A}" />
+				<Child Name="textboxUserName" Owner="{9EDF07A8-1522-4F2F-9ED7-1916E4C601FB}" />
+				<Child Name="passwordboxPassword" Owner="{775E5E74-8EE6-4A13-9F57-3A83A122553A}" />
+				<Child Name="textnodeEpicSadfaceUsernameAnd" Owner="{0F69B7C3-A2EC-4ECF-A073-C0BE6F5AF5CB}" />
+			</Child>
+			<Child Name="pageSwagLabs2" Owner="{39F2AFC3-B1A1-4AC4-B4F2-1B6E4FE8060D}">
+				<Child Name="textnodeProducts" Owner="{4447D8DB-3E9C-4DB7-8F29-23546C764EBB}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
