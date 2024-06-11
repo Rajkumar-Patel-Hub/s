@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
@@ -28,3 +29,7 @@ Testing Project to do CI/CD for the TestComplete testcases
 # SwagLabsApplication
 Testing to Link the TestComplete test cases to the Azure DevOps
 >>>>>>> 3ba10326c89aba18547aba783e0df7dfc4c64dd4
+=======
+# s
+Testing
+>>>>>>> c8314ab7054ccc08f1129f2037307077dd4353d6
